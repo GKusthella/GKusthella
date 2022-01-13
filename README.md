@@ -1,6 +1,6 @@
 ### Hi there 👋 I`m Gustavo, nice to meet you!
 
-<p><em>I'm a Full Stack Developer at <a href="https://www.amdocs.com/">Amdocs</a><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="70" margin-bottom: "-20"> 
+<p><em>I'm a Full Stack Developer at <a href="https://www.amdocs.com/">Amdocs</a><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="70", margin-bottom: "-20"> 
 </em></p>
 
 By the way, I'm also a brazilian streamer, you can check my lives on Twitch TV <a href="https://www.twitch.tv/kustella">twitch.tv/Kustella</a><img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="30"> 
