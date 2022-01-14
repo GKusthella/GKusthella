@@ -17,9 +17,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="obsStudio" src="https://img.shields.io/badge/-OBS%20STUDIO-000000?style=flat-square&logo=obsstudio&logoColor=white" />
+  <img alt="obsStudio" src="https://img.shields.io/badge/-OBS%20Studio-000000?style=flat-square&logo=obsstudio&logoColor=white" />
 </p>
-
+<p><em>
 By the way, I'm also a brazilian streamer. You can check my lives on <a href="https://www.twitch.tv/kustella">twitch.tv/Kustella</a><img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> 
 </em></p>
 
