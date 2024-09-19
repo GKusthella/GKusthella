@@ -4,7 +4,8 @@
 </em></p>
 
 <p><em>
-By the way, I'm also a brazilian content creator. You can check my lives on <a href="https://www.twitch.tv/kusthella">twitch.tv/Kusthella</a><img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> 
+My Hobbies are Games, RPGs, content creation and 3D modeling and texture with Unity and Blender
+Yeah... I'm a furry computer nerd! <img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> 
 </em></p>
 
 <h3>Tools and technologies that I use/have knowledge  :</h3>
