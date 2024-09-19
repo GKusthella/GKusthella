@@ -5,7 +5,7 @@
 
 <p><em>
 My Hobbies are Games, RPGs, content creation and 3D modeling and texture with Unity and Blender
-Yeah... I'm a furry computer nerd! <img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> 
+<p>Yeah... I'm a furry computer nerd! <img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> </p>
 </em></p>
 
 <h3>Tools and technologies that I use/have knowledge  :</h3>
