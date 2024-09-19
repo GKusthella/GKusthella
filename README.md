@@ -1,10 +1,10 @@
 ### Hi there 👋 I`m Gustavo, nice to meet you!
 
-<p><em>I'm a Full Stack Developer at <a href="https://www.amdocs.com/">Amdocs</a><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="65" margin-bottom:"-5"> 
+<p><em>I'm a Full Stack Developer focused in front end <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="65" margin-bottom:"-5"> 
 </em></p>
 
 <p><em>
-By the way, I'm also a brazilian streamer. You can check my lives on <a href="https://www.twitch.tv/kustella">twitch.tv/Kustella</a><img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> 
+By the way, I'm also a brazilian content creator. You can check my lives on <a href="https://www.twitch.tv/kusthella">twitch.tv/Kusthella</a><img src="https://media.giphy.com/media/MdFqLnNXt4crEP3iqx/giphy.gif" width="35"> 
 </em></p>
 
 <h3>Tools and technologies that I use/have knowledge  :</h3>
